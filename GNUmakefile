@@ -483,7 +483,7 @@ ifeq ($(SUBPLATFORM),LINUX)
     ifneq (0,$(HAVE_XMP))
         LIBS += -lxmp-lite
     endif
-    LIBS += -lFLAC -lvorbisfile -lvorbis -logg
+    # LIBS += -lFLAC -lvorbisfile -lvorbis -logg
 endif
 
 ifeq ($(PLATFORM),BSD)
