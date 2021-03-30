@@ -47,3 +47,13 @@ project.xcworkspace/
 *.dSYM/
 
 .DS_Store
+eduke32.data
+eduke32.html
+eduke32.js
+eduke32.wasm
+eduke32.worker.js
+mapster32.data
+mapster32.html
+mapster32.js
+mapster32.wasm
+mapster32.worker.js
